@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Videos Divertidos</title>
+</head>
+<body>
+    <main>
+        <h1>Los Videos Más Divertidos de la Web</h1>
+        <p>Una colección cuidadosamente seleccionada de los videos más entretenidos para alegrarte el día.</p>
+
+        <section>
+            <h2>Gatos Haciendo Travesuras</h2>
+            <p>Mira a estos adorables felinos en su máximo esplendor, haciendo cosas graciosas y encantadoras.</p>
+            <iframe
+                src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+                title="Gatos haciendo travesuras"
+                width="560"
+                height="315"
+            ></iframe>
+        </section>
+
+        <section>
+            <h2>Fallos Épicos</h2>
+            <p>Una recopilación de los fallos más memorables y divertidos de gente común y corriente.</p>
+            <iframe
+                src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+                title="Fallos épicos"
+                width="560"
+                height="315"
+            ></iframe>
+        </section>
+
+        <section>
+            <h2>Talentos Asombrosos</h2>
+            <p>Videos que muestran habilidades increíbles, desde música hasta acrobacias y más.</p>
+            <iframe
+                src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+                title="Talentos asombrosos"
+                width="560"
+                height="315"
+            ></iframe>
+        </section>
+    </main>
+</body>
+</html>
