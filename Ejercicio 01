@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="description" content="Descubre el mundo con Viajes Globales, la agencia que ofrece experiencias inolvidables a los destinos más fascinantes del planeta.">
+    <meta charset="UTF-8">
+    <title>Viajes Globales</title>
+</head>
+<body>
+    <h1>Destinos Inolvidables para tus Próximas Aventuras</h1>
+    <p>Te ayudamos a planificar las vacaciones de tus sueños, con itinerarios personalizados y experiencias únicas alrededor del mundo.</p>
+
+    <h2>Packages</h2>
+    <p>Ofrecemos diferentes paquetes diseñados para cada tipo de viajero.</p>
+    <ul>
+        <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+        <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+
+    <h2>Top Itineraries</h2>
+    <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+            <img src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/1.jpg" alt="Un paisaje majestuoso con montañas y un lago.">
+        </a>
+        <figcaption>Aventuras en las montañas.</figcaption>
+    </figure>
+    <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+            <img src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/2.jpg" alt="Un río que fluye a través de un denso bosque.">
+        </a>
+        <figcaption>Explorando la selva tropical.</figcaption>
+    </figure>
+    <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+            <img src="https://cdn.freecodecamp.org/curriculum/css-photo-gallery/3.jpg" alt="Una playa paradisíaca con aguas cristalinas y palmeras.">
+        </a>
+        <figcaption>Relajación total en la playa.</figcaption>
+    </figure>
+</body>
+</html>
